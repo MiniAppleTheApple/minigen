@@ -1,0 +1,3 @@
+package minigen
+
+func Test() {}
